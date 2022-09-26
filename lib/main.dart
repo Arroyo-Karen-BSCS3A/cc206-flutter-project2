@@ -1,5 +1,3 @@
-// Matthew Parreno, Karen Arroyo, BSCS 3A
-
 import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());
